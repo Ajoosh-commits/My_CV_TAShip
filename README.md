@@ -1,7 +1,7 @@
 # Aayush Patel — Academic CV
 
 **University of Toronto | Computer Science | Minor in Mathematics**  
-**Email:** aayushpatel050505@gmail.com  
+**Email:** aayush.patel@mail.utoronto.ca  
 **GitHub:** [Ajoosh-commits](https://github.com/Ajoosh-commits)  
 **Availability:** Available for in-person TA duties at the University of Toronto Mississauga (UTM)
 
@@ -64,47 +64,10 @@ Undergraduate computer science student with experience in computing education re
 - Served as **Scrum Master for a team of eight developers**, coordinating sprint planning, task priorities, and code reviews.
 - Developed an instructor dashboard to configure market conditions and monitor student activity during instructional sessions.
 
-## Selected Technical Projects
-
-### MiniC Compiler | C++, ANTLR4
-
-- Built a compiler for a subset of C, including lexical and syntactic analysis, abstract syntax trees, semantic checks, and code generation.
-- Worked with type checking, scope management, error handling, and modular lower-level architecture.
-
-### RAID-5 Disk Emulator | C, Linux, Interprocess Communication
-
-- Created a command-line RAID-5 disk emulator using parity-based recovery and communication between disk processes.
-- Implemented low-level file I/O, memory management, and disk read/write operations.
-
-### Virtual Memory Simulator | C
-
-- Implemented a virtual-memory simulator with multilevel page tables and page-fault handling.
-- Used page-replacement strategies including **LRU, CLOCK, and ARC**, with bookkeeping for cache and memory state.
-
-### Connect Four AI | Python
-
-- Implemented minimax search with alpha-beta pruning, heuristic evaluation, and move ordering.
-- Applied algorithm analysis, search optimization, and object-oriented programming.
-
 ## Technical Skills
 
 - **Programming languages:** Python, C, C++, Java, JavaScript, TypeScript, SQL, Haskell, Racket
 - **Frameworks and tools:** React, Node.js, MongoDB, WebSockets, Linux, Git, Docker, ANTLR4, JUnit, PyTorch
 - **Methods and concepts:** Unit testing, debugging, data structures and algorithms, object-oriented design, operating systems, compiler construction, machine learning, Agile/Scrum, and technical writing
-
-## Relevance to TA Positions
-
-| Position(s) | Relevant qualifications |
-| --- | --- |
-| **CSC108, CSC111, CSC148** | CSC108 lab and exam design, FACET-inspired instructional research, introductory Python and computing education coursework |
-| **CSC108/CSC111/CSC148 Autotesting** | Assessment design, programming and debugging experience, and unit-testing knowledge |
-| **CSC209** | C programming, Linux, low-level file I/O, interprocess communication, RAID-5 emulator |
-| **CSC258** | Virtual memory and systems architecture, compiler construction and low-level programming |
-| **CSC311** | Machine learning coursework and LLM fingerprinting/classification project |
-| **CSC263** | Data structures and algorithms coursework, minimax search, algorithmic optimization |
-| **CSC148/CSC263 WDI** | Academic literature reviews, methodological critiques, research writing, and clear technical explanations |
-| **CSC301** | Scrum Master experience, team code reviews, project coordination, and full-stack software development |
-
----
 
 *Research projects described as ongoing are in development; proposed applications and analyses should not be interpreted as completed results.*
